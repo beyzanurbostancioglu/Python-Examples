@@ -1,0 +1,4 @@
+def square_of_hashes(number):
+  for i in range(number):
+    print("#"*number)
+square_of_hashes(5)
