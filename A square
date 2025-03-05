@@ -1,0 +1,4 @@
+def square(number,character):
+ for i in range(number):
+  print(character*number)
+square(5,"*")
